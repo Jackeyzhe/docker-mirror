@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Mirror"
+  short_description: "Find, configure, and verify Docker mirrors"
+  default_prompt: "Use $docker-mirror to find available Docker registry mirrors, prepare a safe Docker Engine configuration change, and verify pulling images."
